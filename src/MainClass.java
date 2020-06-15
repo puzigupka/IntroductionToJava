@@ -3,7 +3,7 @@ import org.junit.Test;
 public class MainClass
 {
     private int class_number = 20;
-    private String class_string = "Hello, world";
+//    private String class_string = "Hello, world";
 
     public int getClassNumber()
     {
@@ -17,10 +17,10 @@ public class MainClass
         return number = 14;
     }
 
-    public String getClassString()
-    {
-        return class_string;
-    }
+//    public String getClassString()
+//    {
+//        return class_string;
+//    }
 
 
 }

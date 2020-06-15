@@ -12,7 +12,8 @@ public class MainClassTest
 //    }
 
     @Test
-    public void testGetClassNumber() {
+    public void testGetClassNumber()
+    {
         int a = Main.getClassNumber();
         int b = 45;
 
