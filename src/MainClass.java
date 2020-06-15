@@ -9,10 +9,10 @@ public class MainClass
         return class_number*3;
     }
 
-    public int getLocalNumber(int number)
+    /*public int getLocalNumber(int number)
     {
         return number = 14;
-    }
+    }*/
 
 
 }
